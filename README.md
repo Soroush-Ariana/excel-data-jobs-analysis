@@ -139,13 +139,12 @@ The Power Pivot interface was used to manage the data model and define measures 
 #### 💡 Insights
 
 - 💻 SQL and Python are the most in-demand skills across data roles by a significant margin, confirming their foundational importance in the industry.
-- ☁️ Cloud technologies — particularly AWS and Azure — also feature prominently, reflecting the industry's ongoing shift towards cloud-based data infrastructure.
 
     ![Chart 3](/Images/2_Project_Analysis_Chart3.png)
 
 #### 🤔 So What
 
-For someone early in their data career, this analysis reinforces where to focus learning efforts: SQL and Python first, followed by cloud familiarity — a combination that appears consistently across the highest-demand roles.
+For someone early in their data career, this analysis reinforces where to focus learning efforts: SQL and Python — a combination that appears consistently across the highest-demand roles.
 
 ---
 
