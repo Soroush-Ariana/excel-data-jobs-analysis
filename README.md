@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Breaking into the data industry raises a lot of questions — which skills should I focus on? Does learning more tools actually lead to better pay? How do salaries differ between the UK and the US? As someone actively pursuing data analyst roles, I built this project to answer those questions using real data rather than guesswork.
+Breaking into the data industry raises a lot of questions — which skills should I focus on? Does learning more tools actually lead to better pay? How do salaries differ between Different locations? As someone actively pursuing data analyst roles, I built this project to answer those questions using real data rather than guesswork.
 
 Using a dataset of real-world data job postings from 2023, I analysed the relationships between skills, job titles, salaries, and locations — and drew conclusions that are directly relevant to anyone navigating the data job market today.
 
@@ -29,6 +29,8 @@ The dataset contains real-world data job postings from 2023, including:
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
+
+Note: The majority of job postings in this dataset are from the United States, which influences the salary distributions shown. Non-US figures are based on smaller sample sizes and should be interpreted with that in mind.
 
 ---
 
