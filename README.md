@@ -178,7 +178,7 @@ This chart is particularly useful for prioritising learning. High salary *and* h
 
 This project gave me practical experience working with a realistic, multi-table dataset using some of Excel's most powerful features — Power Query for data cleaning and transformation, Power Pivot for data modelling, DAX for custom calculations, and PivotCharts for communicating findings visually.
 
-The analysis consistently points in the same direction: specialised, technical skills — particularly Python, SQL, and cloud technologies — are the strongest predictors of higher compensation in the data industry. For someone building their career in data, that's a useful compass.
+The analysis consistently points in the same direction: specialised, technical skills — particularly Python, SQL — are the strongest predictors of higher compensation in the data industry. For someone building their career in data, that's a useful compass.
 
 ---
 
