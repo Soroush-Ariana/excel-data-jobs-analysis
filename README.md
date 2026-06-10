@@ -23,7 +23,7 @@ Using a dataset of real-world data science job postings from 2023, I analysed th
 
 ### Dataset
 
-The dataset contains real-world data job postings from 2023, including:
+The dataset contains real-world data science job postings from 2023, including:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
