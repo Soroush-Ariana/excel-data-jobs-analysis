@@ -4,7 +4,7 @@
 
 Breaking into the data industry raises a lot of questions — which skills should I focus on? Does learning more tools actually lead to better pay? How do salaries differ between Different locations? As someone actively pursuing data analyst roles, I built this project to answer those questions using real data rather than guesswork.
 
-Using a dataset of real-world data job postings from 2023, I analysed the relationships between skills, job titles, salaries, and locations — and drew conclusions that are directly relevant to anyone navigating the data job market today.
+Using a dataset of real-world data science job postings from 2023, I analysed the relationships between skills, job titles, salaries, and locations — and drew conclusions that are directly relevant to anyone navigating the data job market today.
 
 ### Questions Explored
 
